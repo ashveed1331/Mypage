@@ -26,16 +26,13 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-## Hi, I'm Ashveed 👋
+## About Me  
 
-I am a science enthusiast, currently working at **GITAM University, Bangalore**.  
-I completed my Master's at the **Indian Institute of Science Education and Research (IISER), Thiruvananthapuram**.
+Hello! I am Ashveed Ashraf, currently working as a Project Associate in the Department of Chemistry at GITAM University, Bangalore. I hold a BS–MS Dual Degree in Physics, with a minor in Mathematics, from the [Indian Institute of Science Education and Research, Thiruvananthapuram (IISER TVM)](https://www.iisertvm.ac.in/). Prior to joining GITAM University, I was a Visiting Student at the Raman Research Institute, Bangalore.  
 
-### Interests
-My research lies at the intersection of **Physics and Artificial Intelligence**. When I am not working, you can find either reading or watching sci-fi movies or playing football.  
+My primary research interests lie in theoretical physics, particularly at the intersection of Statistical Physics and Machine Learning.  
 
-### 🎓 Looking for PhD Positions
-I am currently seeking **PhD opportunities** in the above-mentioned fields.  
-If you have an opening, I would be happy to connect and discuss!
+I am currently seeking **PhD opportunities** in these areas, and would be happy to connect and discuss potential openings.  
 
-Connect with me at on my [LinkedIn](https://in.linkedin.com/in/ashveed-a-0309b7212).
+📎 Connect with me on [LinkedIn](https://in.linkedin.com/in/ashveed-a-0309b7212).  
+
