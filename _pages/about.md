@@ -2,17 +2,16 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+# subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
 
 profile:
   align: right
   image: ashveed_prof.jpg
-  image_circular: true # crops the image to make it circular
-#  more_info: >
-#    <p>555 GITAM University</p>
-#    <p>123 Bangalore</p>
-#    <p>India</p>
-
+  image_circular: true
+  more_info: >
+    <p><strong>Affiliation:</strong> GITAM University, Bangalore</p>
+    <p><strong>Email:</strong> ashveed2025@gmail.com</p>
+    
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 
