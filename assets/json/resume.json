@@ -1,149 +1,203 @@
-- title: General Information
-  type: map
-  contents:
-    - name: Full Name
-      value: Ashveed Ashraf
-    - name: Location
-      value: Kerala, India
-    - name: Email
-      value: ashveed2025@gmail.com
-    - name: Languages
-      value: English, Malayalam
+{
+  "basics": {
+    "name": "Ashveed Ashraf",
+    "label": "Physics Researcher",
+    "image": "",
+    "email": "ashveed2025@gmail.com",
+    "phone": "+91-8304916273",
+    "url": "https://ashveed1331.github.io/Mypage/",
+    "summary": "Physics researcher working at the interface of statistical physics, machine learning, and complex systems, with a focus on large deviation theory, stochastic thermodynamics, and physics-informed machine learning.",
+    "location": {
+      "city": "Kerala",
+      "countryCode": "IN",
+      "region": "India"
+    },
+    "profiles": [
+      {
+        "network": "GitHub",
+        "username": "ashveed1331",
+        "url": "https://github.com/ashveed1331"
+      },
+      {
+        "network": "LinkedIn",
+        "username": "ashveed-a-0309b7212",
+        "url": "https://www.linkedin.com/in/ashveed-a-0309b7212/"
+      }
+    ]
+  },
 
-- title: Research Interests
-  type: list
-  contents:
-    - Statistical Physics of Machine Learning
-    - Theory of Deep Learning
-    - Disordered and Complex Systems
-    - Large Deviation Theory
-    - Stochastic Thermodynamics
-    - Physics-Informed Machine Learning
-    - Biological Physics
+  "education": [
+    {
+      "institution": "Indian Institute of Science Education and Research (IISER), Thiruvananthapuram",
+      "location": "Thiruvananthapuram, India",
+      "area": "Physics",
+      "studyType": "BS–MS Dual Degree (Minor: Mathematics)",
+      "startDate": "2019-08-01",
+      "endDate": "2024-06-01",
+      "score": "7.62 / 10",
+      "courses": [
+        "Statistical Mechanics",
+        "Quantum Mechanics",
+        "Mathematical Physics",
+        "Computational Physics"
+      ]
+    },
+    {
+      "institution": "BJSM Madathil VHSS",
+      "location": "Kerala, India",
+      "studyType": "Higher Secondary Education",
+      "startDate": "2016-06-01",
+      "endDate": "2018-03-01",
+      "score": "98.25% (Top 1% in Kerala)"
+    }
+  ],
 
-- title: Education
-  type: time_table
-  contents:
-    - title: BS–MS Dual Degree in Physics (Minor: Mathematics)
-      institution: Indian Institute of Science Education and Research (IISER), Thiruvananthapuram
-      year: 2019 – 2024
-      description:
-        - CGPA: 7.62 / 10
-        - "Master’s Thesis: Atomistic Spin Dynamics Simulations of Skyrmions in Transition Metal Ultrathin Films"
+  "work": [
+    {
+      "name": "GITAM University",
+      "position": "Junior Research Fellow",
+      "location": "Bangalore, India",
+      "startDate": "2025-08-01",
+      "endDate": "",
+      "summary": "Theoretical and computational modeling of nucleosome unwrapping and chromatin accessibility.",
+      "highlights": [
+        "Developing stochastic and statistical physics models for nucleosome unwrapping",
+        "Implemented Grand Canonical Monte Carlo and dynamical systems approaches",
+        "Applied stochastic thermodynamics to gene regulation"
+      ]
+    },
+    {
+      "name": "Raman Research Institute",
+      "position": "Visiting Student Researcher",
+      "location": "Bangalore, India",
+      "startDate": "2025-03-01",
+      "endDate": "2025-08-01",
+      "summary": "Inferring interaction potentials from stochastic trajectories using Graph Neural Networks.",
+      "highlights": [
+        "Developed physics-informed GNNs for overdamped Langevin dynamics",
+        "Reconstructed Lennard–Jones interaction potentials from trajectory data"
+      ]
+    },
+    {
+      "name": "GITAM University",
+      "position": "Research Intern",
+      "location": "Bangalore, India",
+      "startDate": "2024-08-01",
+      "endDate": "2025-02-01",
+      "summary": "Sampling exponentially rare trajectories using large deviation theory.",
+      "highlights": [
+        "Developed Normalizing Flow based one-shot rare trajectory generators",
+        "Conditioned volume-preserving transformations on conjugate parameters",
+        "Presented results at JNCASR (Nov 2024)"
+      ]
+    }
+  ],
 
-    - title: Higher Secondary Education
-      institution: BJSM Madathil VHSS, Kerala
-      year: 2016 – 2018
-      description:
-        - Score: 98.25% (Top 1% in Kerala)
+  "projects": [
+    {
+      "name": "Quantifying Consensus in Effective Model Inference for Disordered Ising Systems",
+      "startDate": "2025-01-01",
+      "endDate": "",
+      "summary": "Theoretical framework for consensus learning in disordered statistical systems.",
+      "highlights": [
+        "Teacher–student setup on 2D disordered Ising models",
+        "Studied stability under noisy and limited observations",
+        "Invited talk at ICTP–SISSA Spring College on Complex Systems (2026)"
+      ]
+    },
+    {
+      "name": "Atomistic Spin Dynamics Simulations of Skyrmions",
+      "startDate": "2023-07-01",
+      "endDate": "2024-06-01",
+      "summary": "Master’s thesis on skyrmion stability in transition metal ultrathin films.",
+      "highlights": [
+        "Simulated skyrmions in Rh/Co/Re(0001) interfaces",
+        "Quantified effects of DMI, exchange, and anisotropy",
+        "Computed stability and radius variation"
+      ]
+    }
+  ],
 
-- title: Research Experience
-  type: time_table
-  contents:
-    - title: Junior Research Fellow
-      institution: GITAM University, Bangalore
-      year: Aug 2025 – Present
-      description:
-        - "Project: Theoretical modeling of histone post-translational modifications and nucleosome unwrapping."
-        - Developed theoretical and computational models using GCMC, stochastic dynamics, and statistical physics.
-        - Applied stochastic thermodynamics to study chromatin accessibility and gene regulation.
-        - Supervisor: Dr. Prabir Khatua
+  "publications": [
+    {
+      "name": "Dynamical Large Deviation Generators: One-Shot Technique to Sample Exponentially Rare Trajectories",
+      "publisher": "Manuscript in preparation",
+      "releaseDate": "",
+      "summary": "Normalizing Flow based framework to sample rare-event trajectories in stochastic dynamics."
+    },
+    {
+      "name": "Quantifying Consensus in Effective Model Inference for Disordered Ising Systems",
+      "publisher": "Manuscript in preparation",
+      "releaseDate": "",
+      "summary": "Study of robustness and consensus in inferred effective models under disorder."
+    }
+  ],
 
-    - title: Visiting Student Researcher
-      institution: Raman Research Institute, Bangalore
-      year: Mar 2025 – Aug 2025
-      description:
-        - "Project: Inferring interaction potentials from stochastic trajectories using Graph Neural Networks."
-        - Built physics-informed GNN pipelines for overdamped Langevin dynamics.
-        - Reconstructed Lennard–Jones forces and potentials from trajectory data.
-        - Supervisor: Dr. Rituparno Mandal
+  "skills": [
+    {
+      "name": "Programming & ML",
+      "level": "Advanced",
+      "keywords": [
+        "Python",
+        "PyTorch",
+        "NumPy",
+        "SciPy",
+        "Normalizing Flows",
+        "Graph Neural Networks",
+        "Bayesian Neural Networks"
+      ]
+    },
+    {
+      "name": "Physics & Simulation",
+      "level": "Advanced",
+      "keywords": [
+        "Statistical Mechanics",
+        "Large Deviation Theory",
+        "Stochastic Processes",
+        "Monte Carlo (MCMC, GCMC)",
+        "Molecular Dynamics",
+        "Atomistic Spin Dynamics"
+      ]
+    }
+  ],
 
-    - title: Research Intern
-      institution: GITAM University, Bangalore
-      year: Aug 2024 – Feb 2025
-      description:
-        - "Project: Dynamical Large Deviation Generators – One-shot sampling of rare trajectories."
-        - Developed Normalizing Flow based methods to sample exponentially rare trajectories.
-        - Presented at JNCASR (Nov 2024).
-        - Supervisor: Dr. S. S. Ashwin
+  "languages": [
+    {
+      "language": "English",
+      "fluency": "Fluent"
+    },
+    {
+      "language": "Malayalam",
+      "fluency": "Native"
+    }
+  ],
 
-    - title: Master’s Thesis Student
-      institution: IISER Thiruvananthapuram
-      year: Jul 2023 – Jun 2024
-      description:
-        - Atomistic spin dynamics simulations of skyrmions in Rh/Co/Re(0001) thin films.
-        - Studied effects of DMI, exchange interactions, and anisotropy.
-        - Supervisor: Dr. Souvik Paul
+  "awards": [
+    {
+      "title": "GATE Physics 2024",
+      "date": "2024-03-01",
+      "awarder": "IIT Kanpur",
+      "summary": "93.06 percentile"
+    },
+    {
+      "title": "JEE Advanced Qualified",
+      "date": "2019-06-01",
+      "summary": "Top 0.1% nationwide"
+    }
+  ],
 
-    - title: Summer Research Student
-      institution: IISER Thiruvananthapuram
-      year: Mar 2023 – Jun 2023
-      description:
-        - Simulated Landau–Lifshitz–Gilbert dynamics for topological spin structures.
-        - Initiated DFT calculations using Quantum ESPRESSO.
-
-- title: Research Projects
-  type: time_table
-  contents:
-    - title: Quantifying Consensus in Effective Model Inference for Disordered Ising Systems
-      year: 2025 – Present
-      description:
-        - Independent project on consensus learning under data disorder.
-        - Teacher–student framework on 2D disordered Ising models.
-        - Invited talk at ICTP–SISSA Spring College on Complex Systems (Feb 2026).
-        - Manuscript under preparation.
-
-- title: Research Articles
-  type: list
-  contents:
-    - "Dynamical Large Deviation Generators: One-Shot Technique to Sample Exponentially Rare Trajectories (under preparation)"
-    - "Quantifying Consensus in Effective Model Inference for Disordered Ising Systems (in preparation)"
-
-- title: Conferences & Workshops
-  type: list
-  contents:
-    - ICTP–SISSA Spring College on Complex Systems (Selected), 2026
-    - Bangalore School on Statistical Physics (ICTS), 2025
-    - Discussion Meeting on Glasses & Disordered Systems (JNCASR), 2024
-    - Reinforcement Learning Lectures by Hugo Touchette (ICTS), 2024
-    - SERB Workshop on AI in Energy Materials, 2024
-    - LACAM International Conference, IISER TVM, 2024
-    - Frontier Symposium in Physics & Mathematics, IISER TVM, 2023–2024
-
-- title: Teaching Experience
-  type: list
-  contents:
-    - Teaching Assistant, Quantum Mechanics (B.Tech CSE), GITAM University
-    - Teaching Assistant, Mathematical Physics (MS Physics), GITAM University
-
-- title: Technical Skills
-  type: nested_list
-  contents:
-    - title: Programming
-      items:
-        - Python (NumPy, SciPy, Pandas, Matplotlib)
-        - PyTorch
-        - Bash, Linux, LaTeX
-    - title: Machine Learning
-      items:
-        - Deep Learning
-        - Normalizing Flows
-        - Graph Neural Networks
-        - Bayesian Neural Networks
-    - title: Simulations
-      items:
-        - Monte Carlo (MCMC, GCMC)
-        - Molecular Dynamics
-        - Atomistic Spin Dynamics
-    - title: Computational Tools
-      items:
-        - Quantum ESPRESSO
-        - Wien2k
-        - HPC clusters (IISER TVM, GITAM University)
-
-- title: Achievements
-  type: list
-  contents:
-    - GATE Physics 2024 – 93.06 percentile
-    - Qualified JEE Advanced 2019 (Top 0.1%)
-    - Higher Secondary Examination – 98.25% (Top 1% in Kerala)
+  "references": [
+    {
+      "name": "Dr. S. S. Ashwin",
+      "reference": "Associate Professor, Department of Physics, GITAM University"
+    },
+    {
+      "name": "Dr. Rituparno Mandal",
+      "reference": "Associate Professor, Raman Research Institute"
+    },
+    {
+      "name": "Dr. Prabir Khatua",
+      "reference": "Associate Professor, Department of Chemistry, GITAM University"
+    }
+  ]
+}
